@@ -1,5 +1,19 @@
-# Welcome to GitHub Desktop!
+# Mac 音量調整器 Pro
+身為 Mac 直推的有線耳機用戶設計，因飽受突然被高音量炸耳的經驗（個人習慣從音訊 MIDI 設定調音量），而起身力行製作適合使用者的調音量 GUI。
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+使用 **Python 3.13** 開發
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+_最好用的 BingAI 協助開發（非工商）_
+
+---
+
+## 待實現功能：
+- **上方工具列**
+- **長期待機**
+- **在地化功能**
+
+---
+
+## 預覽：
+
+![程式截圖預留空間，未來可在此放置 GUI 圖片或 GIF 展示效果](#)
