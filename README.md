@@ -12,8 +12,6 @@ _💡 Bing AI 協助開發_
 - [🚀 待實現功能](#-待實現功能)
 - [🐞 已知 BUG](#-已知-bug)
 - [📦 下載](#-下載)
-  - [一般版本](#一般版本)
-  - [資料夾版本](#資料夾版本)
 - [🖼️ 預覽](#%EF%B8%8F-%E9%A0%90%E8%A6%BD)
 
 ---
@@ -34,7 +32,7 @@ _💡 Bing AI 協助開發_
 ---
 
 ## 📦 **下載**
-👉 [**點我下載最新版**]("https://github.com/koko0221/Mac_Volume_Maestro_Pro/releases/download/latest/Mac_Volume_Maestro_Pro.zip")  
+### 👉 [**點我下載最新版**](https://github.com/koko0221/Mac_Volume_Maestro_Pro/releases/download/latest/Mac_Volume_Maestro_Pro.zip)  
 
 如需完全刪除配置檔相關文件，請執行以下指令：
 ```bash
